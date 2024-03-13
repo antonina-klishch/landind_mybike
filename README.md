@@ -1,7 +1,7 @@
 # Landing Page - My Bike
 
 ## Project Description
-This project is a landing page implemented based on the provided design. It showcases a user-friendly interface designed to promote a bicycle-related product or service.
+This project is a landing page implemented based on the provided design. It showcases a user-friendly interface designed to promote eco-cosmetics and magic candles.
 
 ## Technologies Used
  * **HTML5:** Used for the structure and content of the webpage.
@@ -11,12 +11,12 @@ This project is a landing page implemented based on the provided design. It show
    
 ## Responsive Design
 The landing page has a responsive layout optimized for different devices:
-* **Mobile** (600px wide or less)
-* **Tablet** ( from 600px to 1024px)
-* **Desktop**  (more than 1024px wide)
+* **Mobile** (640px wide or less)
+* **Tablet** ( from 640px to 1280px)
+* **Desktop**  (more than 1280px wide)
 
 ## Mock-up 
-  [MY-BIKE](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+  [ECO COSMETICS](https://www.figma.com/file/Fz588JKGuPS2Bk21De4KE5/brand_of_eco-cosmetics-(Edit)?node-id=1%3A2)
 
 ## Landing page
-  [DEMO LINK](https://antonina-klishch.github.io/landind_mybike/)
+  [DEMO LINK](https://antonina-klishch.github.io/eco-cosmetics/)
